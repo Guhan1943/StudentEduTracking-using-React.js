@@ -1,0 +1,72 @@
+.section{
+  position: fixed;
+}
+.row{
+   text-align: center;
+   background-color: blue;
+   width: 150px;
+}
+
+.logo{
+  color: white;
+  font-size: 50px;
+}
+
+
+/* ****************************************************************************************************** */
+
+
+h1{
+  padding: 20px;
+  background-color: rgba(0, 0, 255, 0.525);
+  position: relative;
+  left: 9%;
+  width: auto;
+  color: white;
+}
+
+/* ******************************************************************************************************* */
+
+#content-section{
+  position: relative;
+  left: 9%;
+}
+
+.cards{
+  display: flex;
+  gap: 50px;
+}
+#red{
+  background-color: red;
+}
+.c{
+  display: flex;
+  /* flex-wrap: wrap; */
+  height: auto;
+  width: auto;
+  color: white;
+  border-radius: 8px;
+  font-size: 20px;
+  
+ 
+}
+.num{
+  font-size: 30px;
+  padding: 10px 0px 30px 120px;
+}
+.num-student{
+  padding: 10px;
+}
+#logo1{
+  font-size: 80px;
+}
+
+#violet{
+  background-color:blueviolet
+}
+#green{
+  background-color: rgba(0, 128, 0, 0.603);
+}
+h6{
+  text-align: center;
+}
